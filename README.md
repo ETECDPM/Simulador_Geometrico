@@ -4,7 +4,7 @@
 
 Este projeto apresenta um simulador interativo, desenvolvido em HTML, CSS e JavaScript, para explorar o modelo geocêntrico e compreender por que ele parecia razoável para observadores na Terra.
 
-Na concepção geocêntrica histórica, a Terra ocupava uma posição central, e os movimentos dos astros eram descritos por construções geométricas. O sistema de deferentes e epiciclos, associado a Ptolomeu, permitia representar diversos movimentos aparentes dos planetas, incluindo a retrogradação.
+Na concepção geocêntrica histórica, a Terra ocupava uma posição central, e os movimentos dos astros eram descritos por construções geométricas. O sistema de deferentes e epiciclos, associado a Ptolomeu, permitia representar diversos movimentos aparentes dos planetas, incluindo a retrogradação. **Desenvolvido exclusivamente via ChatGPT-6<sup>TM</sup>.**
 
 ## Objetivos pedagógicos
 
